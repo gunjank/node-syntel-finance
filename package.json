@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/gunjank/node-syntel-finance/issues"
   },
-  "homepage": "https://github.com/gunjank/node-syntel-finance#readme"
+  "homepage": "https://github.com/gunjank/node-syntel-finance#readme",
+  "dependencies": {
+    "phantomjs": "^1.9.19"
+  }
 }
