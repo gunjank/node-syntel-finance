@@ -1,0 +1,19 @@
+{
+  "name": "node-syntel-finance",
+  "version": "1.0.0",
+  "description": "Node Syntel Finance Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gunjank/node-syntel-finance.git"
+  },
+  "author": "Gunjan kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gunjank/node-syntel-finance/issues"
+  },
+  "homepage": "https://github.com/gunjank/node-syntel-finance#readme"
+}
